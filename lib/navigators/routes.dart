@@ -94,6 +94,7 @@ List<Widget> snippets = [
   SnippetLinearProgressIndicator(),
   SnippetListTile(),
   SnippetListView(),
+  SnippetListWheelScrollView(),
   SnippetNestedScrollView(),
   SnippetOpacity(),
   SnippetOutlineButton(),

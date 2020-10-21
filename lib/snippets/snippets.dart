@@ -91,6 +91,7 @@ export './ink_well/ink_well.dart';
 export './linear_progress_indicator/linear_progress_indicator.dart';
 export './list_tile/list_tile.dart';
 export './list_view/list_view.dart';
+export './list_wheel_scroll_view/list_wheel_scroll_view.dart';
 export './nested_scroll_view/nested_scroll_view.dart';
 export './opacity/opacity.dart';
 export './outline_button/outline_button.dart';
