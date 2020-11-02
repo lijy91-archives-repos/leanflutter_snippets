@@ -129,6 +129,7 @@ export './tab_bar/tab_bar.dart';
 export './table/table.dart';
 export './text/text.dart';
 export './text/text_prop_text_align.dart';
+export './text/text_prop_text_direction.dart';
 export './text_button/text_button.dart';
 export './text_field/text_field.dart';
 export './text_form_field/text_form_field.dart';
