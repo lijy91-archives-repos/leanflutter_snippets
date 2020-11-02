@@ -131,6 +131,7 @@ List<Widget> snippets = [
   SnippetTable(),
   SnippetText(),
   SnippetTextPropTextAlign(),
+  SnippetTextPropTextDirection(),
   SnippetTextButton(),
   SnippetTextField(),
   SnippetTextFormField(),
